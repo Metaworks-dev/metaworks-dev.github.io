@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": ["3649515864","63159454"]}
+    "result": {"data":{"site":{"siteMetadata":{"title":"Metaworks"}},"allMarkdownRemark":{"nodes":[{"excerpt":"본 사이트에서는 데이터 & 개발 관련 정보를 공유합니다.","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"March 01, 2022","title":"데이터 & 개발 관련 정보를 공유합니다.","description":"데이터 & 개발 관련 정보를 공유합니다."}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
