@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Metaworks"}},"allMarkdownRemark":{"nodes":[{"excerpt":"본 사이트에서는 데이터 & 개발 관련 정보를 공유합니다.\r\n~ Metaworks ~ This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more…","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"March 01, 2022","title":"데이터 & 개발 관련 정보를 공유합니다.","description":"데이터 & 개발 관련 정보를 공유합니다."}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Metaworks"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Running Airflow in Docker *Apache Airflow 공식 문서 퀵 스타트에 소개된 Running Airflow in Docker 내용을 정리함. Airflow…","fields":{"slug":"/airflow/"},"frontmatter":{"date":null,"title":"","description":null}},{"excerpt":"본 사이트에서는 데이터 & 개발 관련 정보를 공유합니다.\n~ Metaworks ~ This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more…","fields":{"slug":"/hello-world/"},"frontmatter":{"date":"March 01, 2022","title":"데이터 & 개발 관련 정보를 공유합니다.","description":"데이터 & 개발 관련 정보를 공유합니다."}}]}},"pageContext":{}},
     "staticQueryHashes": ["2841359383","3257411868"]}
